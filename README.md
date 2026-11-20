@@ -24,6 +24,16 @@ The following steps were performed in Power Query:
 12. Replaced missing values in selected text columns with `N/A`.
 13. Applied the appropriate data type to the Shipped date column.
 
+## Screenshots
+
+### Raw Data
+![Raw Data Preview](raw-data-preview.png)
+
+### Power Query Transformation
+![Power Query Steps](power-query-steps.png)
+
+### Cleaned Data
+![Cleaned Data Preview](cleaned-data-preview.png)
 ## Final Dataset
 
 | Description | Result |
